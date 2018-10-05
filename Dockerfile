@@ -1,2 +1,2 @@
-# Np code but comment
+# No code but comment
 FROM scratch
